@@ -1,0 +1,19 @@
+.learncontent{
+    display: flex;
+    flex-direction: column;
+    background-color: darkslategray;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 1rem;
+    gap: 0.5rem;
+    font-family: sans-serif;
+}
+
+.learncontent input{
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    width: 20rem;
+    height: 1.5rem;
+}
